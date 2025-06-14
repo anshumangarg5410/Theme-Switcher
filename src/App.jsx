@@ -43,7 +43,7 @@ function App() {
           <div className="mainpic h-full w-full bg-[url('./assets/yo.jpg')] bg-cover bg-center bg-no-repeat"></div>
         </div>
         <div className="status w-full h-[10%] bg-gray-500 flex justify-center items-center text-xl font-mono pt-5 text-black dark:text-white font-bold ">Anshuman Garg</div>
-        <div className="status w-full h-[10%] bg-gray-500 flex justify-center items-center text-l font-mono text-black dark:text-white font-bold">Software Engineer</div>
+        <div className="status w-full h-[10%] bg-gray-500 flex justify-center items-center text-l font-mono text-black dark:text-white font-bold">Software Engineer / Web Developer</div>
         {/* <div className="status w-full h-[5%] bg-gray-500 flex justify-center items-center text-m font-mono text-black dark:text-white font-bold">At Amazon</div> */}
       </div>
       </div>
