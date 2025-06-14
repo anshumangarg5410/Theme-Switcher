@@ -1,12 +1,33 @@
-# React + Vite
+# 🪪 Theme Switcher ID Card Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
-Currently, two official plugins are available:
+A simple **React + Tailwind CSS** project that displays a digital ID Card with light/dark theme toggle.  
+Created for learning and practice purposes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🌐 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+> 🚀 [Live Site](https://anshumangarg5410.github.io/Theme-Switcher)  
+
+---
+
+## 📦 Tech Stack
+
+- ⚛️ React (with Vite)
+- 🎨 Tailwind CSS
+- 🌙 Theme Toggler (Light/Dark Mode)
+- 📄 MIT License
+
+---
+
+## 🛠️ Setup Instructions
+
+To run the project locally:
+
+```bash
+git clone https://github.com/anshumangarg5410/Theme-Switcher.git
+cd Theme-Switcher
+npm install
+npm run dev
