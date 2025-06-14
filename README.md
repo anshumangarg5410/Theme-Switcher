@@ -15,10 +15,14 @@ Created for learning and practice purposes.
 
 ## 📦 Tech Stack
 
-- ⚛️ React (with Vite)
-- 🎨 Tailwind CSS
-- 🌙 Theme Toggler (Light/Dark Mode)
-- 📄 MIT License
+| Purpose             | Technology        |
+|---------------------|-------------------|
+| UI Library          | **React (Vite)**  |
+| Styling             | **Tailwind CSS**  |
+| Theme Toggle Logic  | **JavaScript**    |
+| Version Control     | **Git & GitHub**  |
+| Deployment          | **GitHub Pages**  |
+| Package Manager     | **npm**           |
 
 ---
 
