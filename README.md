@@ -1,4 +1,4 @@
-# 🪪 Theme Switcher ID Card Generator
+# 🪪 Theme Switcher 
 
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
