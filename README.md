@@ -1,6 +1,9 @@
 # 🪪 Theme Switcher 
 
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+![Vite](https://img.shields.io/badge/Built%20with-Vite-blue.svg)
+![React](https://img.shields.io/badge/React-JS-blue)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-38b2ac)
 
 A simple **React + Tailwind CSS** project that displays a digital ID Card with light/dark theme toggle.  
 Created for learning and practice purposes.
